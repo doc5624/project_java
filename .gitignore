@@ -4,4 +4,4 @@ out/
 !**/src/test/**/out/
 
 .idea/
-.iml
+*.iml
